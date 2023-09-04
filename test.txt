@@ -18,4 +18,9 @@ now if you notice the files have been added to staging area and hence color chan
 
  once all required files are in the staging area you have to commit the code.
  you can do it by using git commit -m "message of commit"ok
- 
+
+ please type your github email that we created last time ee. your gmail account
+
+
+ now lets push your code to server. if you notice all your repo is empty
+ testo push we use the command git push origin main (we wil discuss branches later) remember main"
