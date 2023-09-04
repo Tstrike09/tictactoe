@@ -1,0 +1,21 @@
+things to know about git
+
+git is a local repo
+
+github is a repo online which can be viewd by everyone who you give acess to or make the repo public
+
+first changes have to made in local ie.. git and then pushed to online repo iee. git hub
+
+in vs code you can view the files changes which have been made or in cmd you can type git status
+as you can see git status gives two new files .gitignore and test.txt which have been addded to repo
+
+every git repo has a staging area and git status gives you status of staging area
+to add items to staging area you can do git add . to add all files or git add test.txt to add single files
+
+now if you notice the files have been added to staging area and hence color changed ot green
+ i did not save test.txt see what happens after is save it so u will be notified when i make changes?
+ not yet, this is your local repo let me show you how to first commit and then push code to server where i can view
+
+ once all required files are in the staging area you have to commit the code.
+ you can do it by using git commit -m "message of commit"ok
+ 
